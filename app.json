@@ -1,13 +1,13 @@
 {
-    "name": "Veez Music Bot",
+    "name": "KNR Music Play Bot",
     "logo": "https://telegra.ph/file/acf5163b7255b79fca645.jpg",
-    "description": "veez music allow you to stream music trought the telegram voice chat feature.",
+    "description": "KNR Music Play allow you to stream music trought the telegram voice chat feature.",
     "keywords": [
         "music", 
         "voice chat", 
         "telegram"
     ],
-    "repository": "https://github.com/levina-lab/veezmusic",
+    "repository": "https://github.com/kaveeneth/KNR-Music-Play",
     "stack": "container",
     "env": {
         "SESSION_NAME": {
